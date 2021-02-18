@@ -1,1 +1,1 @@
-# StudentManagement-System-CRUD-BACKEND-nodejs-mongodb-express-
+# CRUD-BACKEND-nodejs-mongodb-express-
